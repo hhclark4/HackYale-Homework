@@ -1,0 +1,46 @@
+body {
+	background-color:white;
+	margin:0;
+	padding:0;
+}
+
+ul {
+	position: absolute;
+	left: 90px;
+	top: -65px;
+	color: #FFFAF0;
+	font: bold 80px/80px Arial, Helvetica, sans-serif;
+}
+
+#headerBar {
+    height: 100px;
+    background: #778899;
+}
+
+#box1 {
+	position: absolute;
+	right: 200px;
+	top:150px;
+}
+
+#box2 {
+	position: absolute;
+	left: 200px;
+	top: 300px;
+}
+
+#box3 {
+	position: absolute;
+	left: 200px;
+	top: 250px;
+}
+
+section {
+	float: left;
+	width:450px;
+}
+
+aside {
+	float:right;
+	width: 450px;
+}
