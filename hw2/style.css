@@ -1,0 +1,164 @@
+.body{
+	margin:0;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#FFFFE0;
+	color:#E9967A;
+}
+
+.topbar {
+	position: relative;
+	top;
+	left;
+	height: 35px;
+	background-color: #778899;
+	padding: 10px;
+	margin: 0px;
+}
+
+.name {
+	position: absolute;
+	left: 40px;
+	color: #FFFFE0;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.links {
+	position:absolute;
+	display:inline;
+	right:60px;
+	top:-15px;
+	color: #FFFFE0;
+	font-size: 15px;
+	top;
+}
+
+.link-box {
+	display:inline-block;
+	height:50px;
+	margin:20px;
+	
+}
+
+.column-box {
+	position:absolute;
+	left:215px;
+	top;
+	
+}
+
+
+.boxes {
+	position:relative;
+	display:inline-block;
+	margin-left:36px;
+	margin-right:0px;
+	left:-36px;
+	width:296px;
+	height:700px;
+}
+
+.column-head {
+	position:absolute;
+	top:35px;
+}
+
+.item {
+	position:absolute;
+	top:150px;
+	font-size:20px;
+}
+
+.hat-pic {
+	position:absolute;
+	top:200px;
+}
+
+.hat-caption {
+	position:absolute;
+	top:600px;
+}
+
+.hat-link {
+	position:absolute;
+	top:665px;
+	color:#E9967A;
+}
+
+.subheading {
+	position:absolute;
+	top:800px;
+	left:215px;
+	width:628px;
+	margin:0px;
+}
+
+.subheader {
+	font-size:25px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+.subsubheader {
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:0px;
+	padding:0px;
+}
+
+.subheading2 {
+	position:absolute;
+	top:800px;
+	left:879px;
+	width:296px;
+}
+
+.section {
+	float:left;
+	width:80px;
+	height:80px;
+	padding-bottom:20px;
+}
+
+.section1 {
+	float:left;
+	width: 200px;
+	margin-bottom:20px;
+}
+
+.aside {
+	float:right;
+	width:200px;
+	height:80px;
+	padding-bottom:20px;
+}
+
+.aside1 {
+	float:right;
+	width:150px;
+	margin-bottom:20px;
+}
+
+p {
+	margin:0;
+	border:0;
+	font-size:15px;
+}
+
+.about {
+	font-size: 25px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+.bottom-tag {
+	position:absolute;
+	top:970px;
+	padding-bottom:100px;
+}
+
+#disappear {}
+
+a:link {text-decoration: none; color:#FFFFE0;}
+a:visited {color:#FFFFE0;}
+a:hover {text-decoration:underline; /*color:white;*/}

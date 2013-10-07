@@ -1,0 +1,20 @@
+body {
+	background-image: url('ac_background.jpg');
+	background-size: 100%;
+}
+
+h1 {
+	color: #FFFAF0;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+ul {
+	position: absolute;
+	right: 10 px;
+	top: 20 px;
+}
+
+
+h2 {
+	font-family:Arial, Helvetica, sans-serif;
+}
